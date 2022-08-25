@@ -125,7 +125,6 @@ const EditProductMain = (props) => {
                           className="form-control"
                           id="product_price"
                               min='0'
-                              max='1000'
                           required
                           value={price}
                           onChange={(e) => setPrice(e.target.value)}

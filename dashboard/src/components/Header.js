@@ -79,7 +79,7 @@ const Header = () => {
             <Link className="dropdown-toggle" data-bs-toggle="dropdown" to="#">
               <img
                 className="img-xs rounded-circle"
-                src="/images/Shoes store logo.png"
+                src="/images/Shoesstore.png"
                 alt="User"
               />
             </Link>

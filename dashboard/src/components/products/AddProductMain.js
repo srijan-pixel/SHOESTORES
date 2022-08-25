@@ -86,7 +86,6 @@ const AddProductMain = () => {
                       type="number"
                       placeholder="Type here"
                       min="0"
-                      max='1000'
                       className="form-control"
                       id="product_price"
                       required

@@ -15,7 +15,7 @@ const ExtraData = () => {
                 id="product-cat"
               />
               <label className="form-check-label" htmlFor="product-cat">
-                Shirt
+                Shoes
               </label>
             </div>
             <div className="form-check">
@@ -26,7 +26,7 @@ const ExtraData = () => {
                 id="product-cat-1"
               />
               <label className="form-check-label" htmlFor="product-cat-1">
-                T-Shirt
+                boots
               </label>
             </div>
             <div className="form-check">
@@ -37,7 +37,7 @@ const ExtraData = () => {
                 id="product-cat-2"
               />
               <label className="form-check-label" htmlFor="product-cat-2">
-                Sneakers
+                dress shoes
               </label>
             </div>
             <div className="form-check">
@@ -48,7 +48,7 @@ const ExtraData = () => {
                 id="product-cat-3"
               />
               <label className="form-check-label" htmlFor="product-cat-3">
-                Joggers
+                athletic shoes
               </label>
             </div>
             <div className="form-check">
@@ -70,7 +70,7 @@ const ExtraData = () => {
                 id="product-cat-5"
               />
               <label className="form-check-label" htmlFor="product-cat-5">
-                Knitwear
+                Brogue shoes
               </label>
             </div>
             <div className="form-check">
@@ -81,7 +81,7 @@ const ExtraData = () => {
                 id="product-cat-8"
               />
               <label className="form-check-label" htmlFor="product-cat-8">
-                Shorts
+                Oxford shoes
               </label>
             </div>
           </>
